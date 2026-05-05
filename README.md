@@ -26,7 +26,3 @@ python src/fm_audio_recovery.py
 ```
 
 The included report provides the full technical context and results.
-
-## Notes
-
-The repository includes source code, selected figures, notebooks, and the final report. Generated audio files, draft notebooks, assignment prompts, textbooks, and unrelated materials are not included.
