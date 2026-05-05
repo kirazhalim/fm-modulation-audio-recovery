@@ -12,7 +12,7 @@ This project implements and analyzes an FM communication chain in Python/Jupyter
 
 ## What Is Excluded
 
-Generated `.wav` audio files, draft AI-assisted experiment notebooks, assignment PDFs, textbooks, and checkpoint folders are excluded.
+Generated `.wav` audio files, draft experiment notebooks, assignment PDFs, textbooks, and checkpoint folders are excluded.
 
 ## How to Use
 
@@ -27,6 +27,6 @@ python src/fm_audio_recovery.py
 
 The included report provides the full technical context and results.
 
-## Data and Materials Notice
+## Notes
 
-This repository contains source code, selected figures, notebooks, and the final report prepared for portfolio use. Generated audio files, draft notebooks, assignment prompts, textbooks, and unrelated materials are not included.
+The repository includes source code, selected figures, notebooks, and the final report. Generated audio files, draft notebooks, assignment prompts, textbooks, and unrelated materials are not included.
