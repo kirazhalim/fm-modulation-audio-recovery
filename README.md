@@ -1,22 +1,22 @@
-# FM Modulation and Demodulation in Python
+# FM Modulation and Audio Recovery
 
-This project implements and analyzes an FM communication chain in Python/Jupyter, including modulation, demodulation, signal reconstruction, and result visualization.
+This repository contains my FM modulation and demodulation project in Python. I worked on generating an FM signal, recovering the audio signal, and visualizing the main steps of the communication chain.
 
-## What Is Included
+The project includes 1 Python script, 2 notebooks, 6 figures, and a final report.
 
-- `src/fm_audio_recovery.py` - main Python implementation for FM audio recovery
-- `src/fm_demodulation_analysis.ipynb` - notebook-based demodulation analysis
-- `src/fm_audio_recovery_bonus.ipynb` - additional experiment notebook
-- Selected report figures in `figures/`
-- Final term project report: `fm_audio_recovery_report.pdf`
+## What I Did
 
-## What Is Excluded
+- Implemented FM modulation and demodulation steps in Python.
+- Analyzed the signal in notebook form.
+- Generated figures for the main results.
+- Tested an additional bonus experiment in a separate notebook.
+- Prepared a final report for the full explanation.
 
-Generated `.wav` audio files, draft experiment notebooks, assignment PDFs, textbooks, and checkpoint folders are excluded.
+## Report
 
-## How to Use
+The detailed method and results are in `fm_audio_recovery_report.pdf`.
 
-Open the notebooks in `src/` or run the main Python script after installing the scientific Python stack used in the notebooks:
+## How to Run
 
 ```bash
 python -m venv .venv
@@ -24,5 +24,3 @@ source .venv/bin/activate
 pip install numpy scipy matplotlib jupyter
 python src/fm_audio_recovery.py
 ```
-
-The included report provides the full technical context and results.
